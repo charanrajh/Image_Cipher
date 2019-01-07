@@ -9,4 +9,4 @@ versions of MD5 and SHA1
 
 "pip install pycrypto" - This is a collection of both secure hash functions (such as SHA256 and RIPEMD160), and various encryption algorithms (AES, DES, RSA, ElGamal, etc.).
 
-"sudo apt-get install python-PIL" or "pip install pillow" - the Image module provides a class with the same name which is used to represent a PIL image. The module also provides a number of factory functions, including functions to load images from files, and to create new images
+"pip install PIL" - Python Image Library, the Image module provides a class with the same name which is used to represent a PIL image. The module also provides a number of factory functions, including functions to load images from files, and to create new images
